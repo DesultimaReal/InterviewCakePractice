@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509819829 source:d:\users\starvinmarvin\desktop\highestproductof3\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+
