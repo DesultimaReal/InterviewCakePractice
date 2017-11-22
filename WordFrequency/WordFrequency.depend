@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509585249 source:d:\users\starvinmarvin\desktop\wordfrequency\main.cpp
+	<iostream>
+	<unordered_map>
+	<ctype.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510111523 source:d:\users\starvinmarvin\desktop\uniqueinvec\main.cpp
+	<iostream>
+	<vector>
+
